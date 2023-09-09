@@ -1,0 +1,17 @@
+load data
+Loading siftsmall...done
+train
+PQ training on 25000 points, remains 0 points: training polysemous on centroids
+add vectors to index
+PQ baseline        0.100 ms per query, R@1 0.6300
+Polysemous 64      0.100 ms per query, R@1 0.6300
+Polysemous 62      0.200 ms per query, R@1 0.6300
+Polysemous 58      0.100 ms per query, R@1 0.6300
+Polysemous 54      0.100 ms per query, R@1 0.6300
+Polysemous 50      0.100 ms per query, R@1 0.6200
+Polysemous 46      0.100 ms per query, R@1 0.5900
+Polysemous 42      0.000 ms per query, R@1 0.5900
+Polysemous 38      0.100 ms per query, R@1 0.4500
+Polysemous 34      0.100 ms per query, R@1 0.3500
+Polysemous 30      0.000 ms per query, R@1 0.2300
+Time taken = 40.81075835227966
